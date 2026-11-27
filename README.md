@@ -1,2 +1,0 @@
-# erm
-Expositions- und Reaktionsmanagement
